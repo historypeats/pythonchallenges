@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # Challenge URL: http://www.pythonchallenge.com/pc/def/0.html
+
 NEXT_URL = 'http://www.pythonchallenge.com/pc/def/PLACEHOLDER.html'
 
 
