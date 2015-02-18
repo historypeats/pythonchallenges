@@ -1233,12 +1233,13 @@ $#_}*!(+([_&%{^&[([%]}*^{{([@+@]@*&@_!]_+([(#&!]]#$$#]@#{_]][_{@]{*))$({%}_![@$]
 %&]!{{%*_!*}&)}$**_{*!#%[[#]!](^^$![#[[*}%(_#^^!%))!_^@)@**@}}(%%{#*%@(((]^%^![&
 }!)$]&($)@](+(#{$)_%^%_^^#][{*[)%}+[##(##^{$}^]#&(&*{)%)&][&{]&#]}[[^^&[!#}${@_(
 #@}&$[[%]_&$+)$!%{(}$^$}*
--->```
+-->
+```
 
 So given the hint, it seems we need to find the characters that are outliers in regards to count. To do this, we can use the [Counter module](https://docs.python.org/2/library/collections.html#collections.Counter). So, using my chal2.py script, I was able to discover the following characters:
 
 ```
- - 1219
+- 1219
 ! - 6079
 # - 6115
 % - 6104
