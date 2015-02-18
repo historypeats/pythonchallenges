@@ -1268,7 +1268,7 @@ y - 1
 
 We can see that the chars: a e i l q u t y all have an instance of 1. 
 
-Unscambling these letters revel the word: equality. This leads to the next challenge.
+Unscambling these letters reveal the word: equality. This leads to the next challenge.
 
 ## Solution
 http://www.pythonchallenge.com/pc/def/equality.html
